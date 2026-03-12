@@ -21,7 +21,7 @@ taxonomy_british_lichen_final.csv - Taxonomy of British lichen, collated from mu
 conservation_priority_list.csv - taxa to prioritize for sequencing due to conservation concern. \
 family_priority_list.csv - taxa to prioritize for sequencing due to their correspondent family lacking previous sequence data for British lichens. \
 most_abundant_priority_list.csv - taxa to prioritize for sequencing due to their high frequency of capture on BLS surveys. \
-lichen_species_missing_markers.csv - all LAT that are missing sequences for each barcode, count of how many sequences there are for each barcode.
+lichen_species_missing_markers.csv - all LAT that are missing sequences for each barcode (existing marker = 1, NA = no existing marker)
 
 ### Sequence Data (metadata and sequence data stored in one csv for each barcode):
 mtssu_seq_meta.csv \
