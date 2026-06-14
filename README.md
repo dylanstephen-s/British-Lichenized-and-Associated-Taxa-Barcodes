@@ -4,7 +4,7 @@ This reference database provides barcodes for the mtSSU, ITS, 18S and 28S for Br
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65b3914e-5b0b-4774-9ce2-548c24e16cb9"
+  <img src="./Supplementary_Figure_1.pdf"
        alt="Appendix Figure Pipeline" />
 </p>
 
